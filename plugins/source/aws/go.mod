@@ -43,6 +43,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/emr v1.20.11
 	github.com/aws/aws-sdk-go-v2/service/eventbridge v1.16.15
 	github.com/aws/aws-sdk-go-v2/service/firehose v1.14.19
+	github.com/aws/aws-sdk-go-v2/service/frauddetector v1.20.9
 	github.com/aws/aws-sdk-go-v2/service/fsx v1.25.0
 	github.com/aws/aws-sdk-go-v2/service/glacier v1.13.17
 	github.com/aws/aws-sdk-go-v2/service/guardduty v1.15.9
@@ -91,8 +92,6 @@ require (
 
 require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.0.14 // indirect
-	github.com/aws/aws-sdk-go-v2/service/glacier v1.13.17 // indirect
-	github.com/aws/aws-sdk-go-v2/service/frauddetector v1.20.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.1.18 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.13.6 // indirect
 	github.com/bitly/go-simplejson v0.5.0 // indirect
